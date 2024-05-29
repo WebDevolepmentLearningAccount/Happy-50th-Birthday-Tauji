@@ -1,0 +1,26 @@
+.Video {
+    width: 400px;
+  display: block;
+  margin: auto;
+}
+
+.birthday-quote {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+.birthday-quote {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff6600; /* Fun orange color */
+    padding: 20px;
+}
+
+.Header {
+    font-family: 'Comic Sans MS', cursive;
+    font-size: 36px;
+    font-weight: bold;
+    color: rgb(255, 102, 0);
+    text-align: center;
+    background-color: rgb(249, 249, 249);
+}
